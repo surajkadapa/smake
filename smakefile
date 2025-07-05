@@ -1,8 +1,4 @@
-all: compile link
+all: compile 
 
-compile: main.cpp utils.cpp
-    g++ -c main.cpp
-    g++ -c utils.cpp
-
-link: compile
-    g++ main.o utils.o -o app
+compile: 
+    echo "hello"
