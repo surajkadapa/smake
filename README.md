@@ -60,7 +60,7 @@ Only targets that are missing or out-of-date will be rebuilt.
 
 ## Build & Run
 
-`g++ -std=c++17 -o smake src/main.cpp src/parser.cpp src/graph.cpp src/executor.cpp`
+`g++ -std=c++17 -o smake src/main.cpp src/parser.cpp src/graph.cpp src/executor.cpp` \
 `./smake <target>`
 
 ## Design Goals
