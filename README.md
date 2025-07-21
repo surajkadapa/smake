@@ -1,6 +1,6 @@
 # smake
 
-**smake** is a minimal, dependency-aware C++ build tool designed to automate compilation and linking in multi-file projects. It replicates the core behavior of traditional tools like `make`—parsing a custom `smakefile`, resolving dependencies, and rebuilding only when necessary—while remaining lightweight, readable, and educational.
+**smake** is a minimal, dependency-aware C++ build tool designed to automate compilation and linking in multi-file projects. It replicates the core behavior of traditional tools like `make`-parsing a custom `smakefile`, resolving dependencies, and rebuilding only when necessary while remaining lightweight, readable, and educational.
 
 ---
 
